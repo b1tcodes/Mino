@@ -1,3 +1,16 @@
+<img src="img/img3.png">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img alt="" src="img/img3.png" />
+    </td>
+    <td width="50%">
+      <img alt="" src="img/img5.png" />
+    </td>
+  </tr>
+</table>
+<img src="img/img2.png">
+
 # Mino Arm
 
 Mino is a robot arm project built from accessible components. It is designed to be simple to assemble, easy to understand, and practical for learning robotics. The project includes two items:
