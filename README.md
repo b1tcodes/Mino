@@ -22,12 +22,12 @@ This setup creates a direct way to control the robot arm without complex control
 ## Repository Structure
 ```
 Mino/
-├── MinoCode.ino/
-│   └── contains code
-├── hardware/
+├── Hardware/
 │   └── contains all the 3d files
 ├── img/
 │   └── contains all the images
+├── MinoCode.ino/
+│   └── contains code
 ├── README.md
 └── bom.csv
 ```
