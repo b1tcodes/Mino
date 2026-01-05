@@ -35,8 +35,10 @@ This setup creates a direct way to control the robot arm without complex control
 ## Repository Structure
 ```
 Mino/
-├── Hardware/
-│   └── contains all the 3d files
+├── 3d-parts-to-edit/
+│   └── contains all the 3d files to edit and customize mino
+├── 3d-parts-to-print/
+│   └── contains all the 3d files to print and make your own mino
 ├── img/
 │   └── contains all the images
 ├── MinoCode.ino/
