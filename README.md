@@ -1,4 +1,4 @@
-<img src="img/img3.png">
+<img src="img/img7.png">
 <table width="100%">
   <tr>
     <td width="50%">
@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-<img src="img/img2.png">
+<img src="img/wiringdiagram.png">
 
 # Mino Arm
 
